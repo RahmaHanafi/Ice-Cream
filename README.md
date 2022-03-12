@@ -1,1 +1,1 @@
-# Ice-cream
+# Ice-cream drawing with OpenGL 🍧
